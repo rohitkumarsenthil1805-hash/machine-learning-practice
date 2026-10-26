@@ -17,7 +17,7 @@ A collection of Python scripts and practical examples created while learning **D
 | **Iris Dataset Analysis** | Explore the Iris dataset, perform data transformations, and calculate descriptive statistics. | Pandas, NumPy |
 | **Iris Classification** | Classify Iris flower species using Logistic Regression, with train-test splitting and evaluation. | Scikit-learn, Classification |
 | **NIFTY 50 Prediction** | Train a Random Forest Regressor using historical NIFTY 50 index data. | yfinance, Scikit-learn, Regression |
-| **Data Visualization Lab** | Create line plots, bar charts, histograms, scatter plots, box plots, heatmaps, and pair plots. | Matplotlib, Seaborn |
+| **Data Visualization Lab** | Create line plots, bar charts, histograms, scatter plots, box plots. | Matplotlib, Seaborn |
 | **Supplementary Exercises** | Practise Python data structures, utility functions, and related programming concepts. | Python |
 
 ##  Tools and Technologies
